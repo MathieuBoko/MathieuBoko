@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mathieu !
+- 👋 Hi there, I’m Mathieu !
 - 👀 I’m interested in everything digital.
 - 🌱 I just graduated & was hired as a Graduate Software Developer Intern.
 - 💞️ I’m looking for a Full-stack / Frontend Web / Mobile Dev position.
