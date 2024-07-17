@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m Mathieu !
+- 👋 Hi there, I’m Mathieu!
 - 👀 I’m interested in everything digital.
-- 🌱 I just graduated & was hired as a Graduate Software Developer Intern.
-- 💞️ I’m looking for a Full-stack / Frontend Web / Mobile Dev position.
+- 🌱 I was recently hired as a Graduate Software Developer.
+- 💞️ I’m seeking a Full-stack Web / Mobile Dev position.
 - 📫 How to reach me: www.linkedin.com/in/mathieuboko
 
 <!---
