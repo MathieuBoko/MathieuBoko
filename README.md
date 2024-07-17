@@ -1,4 +1,4 @@
-- 👋🏽 Hi there, I’m Mathieu!
+- ☀️ Hi there, I’m Mathieu! 👋🏽
 - 💞️ I’m interested in everything digital.
 - 🌱 And I'm thrilled to learn on this Dev journey.
 - 🏢 I was recently hired as a Graduate Software Developer; You can find my current contribution flow here: https://github.com/bokomathieu
