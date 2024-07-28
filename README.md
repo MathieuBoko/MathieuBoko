@@ -1,9 +1,18 @@
-- ☀️ Hi there, I’m Mathieu! 🥷🏽👋🏽
-- 💞️ I’m interested in everything digital.
-- 🌱 And I'm thrilled to learn on this Dev journey.
-- 🏢 I was recently hired as a Graduate Software Developer; You can find my current contribution flow here: https://github.com/bokomathieu
-- 👀 I’m seeking a <strong>Full-stack Junior Dev position.</strong> 
-- 📫 How to reach me: www.linkedin.com/in/mathieuboko
+
+🌅 Hi there, I’m Mathieu! 🥷🏽👋🏽
+
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp; 
+I’m interested in everything digital. <br/>
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+And I'm thrilled to learn on this Dev journey. <br/>
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+I was recently hired as a Graduate Software Developer; <br/> 
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+You can find my current contribution flow here: https://github.com/bokomathieu <br/>
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+I’m seeking a <strong>Full-stack Junior Dev position.</strong> <br/>
+<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+How to reach me: www.linkedin.com/in/mathieuboko <br/>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
