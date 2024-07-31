@@ -1,7 +1,7 @@
 
 <div id="header" align="center" > 🌅 Hi there, I’m Mathieu!👋🏽</div> <br/>
 <div id="header" align="center" > I'm a Full Stack Developer based in London. </div> <br/>
-<div id="header" align="center" ><img height= "65" src="https://github.com/user-attachments/assets/5dec6307-9498-405e-9f47-ef502b4cb20c" </div>
+<div id="header" align="center" ><img height= "65" src="https://github.com/user-attachments/assets/5dec6307-9498-405e-9f47-ef502b4cb20c" /></div>
 
 ---
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp; 
