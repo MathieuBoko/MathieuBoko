@@ -1,12 +1,13 @@
 
-🌅 Hi there, I’m Mathieu! 🥷🏽👋🏽
+<div id="header" align="center" > 🌅 Hi there, I’m Mathieu!👋🏽</div> <br/>
+<div id="header" align="center" > I'm a Full Stack Developer based in London. </div> <br/>
+<div id="header" align="center" > 🥷🏽 </div>
 
+---
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp; 
-I’m interested in everything digital. <br/>
+I’m interested in everything digital. And I'm thrilled to learn on this Dev journey. <br/>
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
-And I'm thrilled to learn on this Dev journey. <br/>
-<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
-I was recently hired as a Graduate Software Developer; <br/> 
+I was recently hired as a Graduate Software Developer Intern; <br/> 
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 You can find my current contribution flow here: https://github.com/bokomathieu <br/>
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
@@ -14,6 +15,7 @@ I’m seeking a <strong>Full-stack Junior Dev position.</strong> <br/>
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 How to reach me: www.linkedin.com/in/mathieuboko <br/>
 
+---
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
