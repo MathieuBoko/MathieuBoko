@@ -28,6 +28,12 @@ How to reach me: www.linkedin.com/in/mathieuboko <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+---
+### :fire: Stats :
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MathieuBk0&theme=dark&background=000000" />
+  </div>
+
 <div id="footer" align="right">
   <img height="120" src="https://github.com/user-attachments/assets/c3893ad5-0081-4a1e-aa56-80ac5940b69a" />
 </div>
