@@ -9,7 +9,7 @@ I’m interested in everything digital. And I'm thrilled to learn on this Dev jo
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 I was recently hired as a Graduate Software Developer Intern 🏢 <br/> 
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
-You can find my current contribution flow here: https://github.com/bokomathieu <br/>
+You can find my contribution flow within organization here: https://github.com/bokomathieu <br/>
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 I’m seeking a <strong>Full-stack Junior Dev position.</strong> 👀 <br/>
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
