@@ -28,7 +28,7 @@ Oh by the way! This is my Medium blog: https://medium.com/@MathieuBoko 📝 <br/
 ---
 ### :fire: Stats :
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MathieuBoko&theme=dark&background=000000" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
   </div>
 
 <div id="footer" align="right">
