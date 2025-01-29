@@ -29,7 +29,7 @@ Oh by the way! This is my Medium blog: https://medium.com/@MathieuBoko 📝 <br/
 ---
 ### :fire: Stats :
   <div align="center">
-    <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark"><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
+    <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" target="_blank"><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
   </div>
 
 <div id="footer" align="right">
