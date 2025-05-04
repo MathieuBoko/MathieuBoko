@@ -24,6 +24,7 @@ Oh by the way! This is my Medium blog: https://medium.com/@MathieuBoko 📝 <br/
   <a href="https://sass-lang.com"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/></a>&nbsp;
   <a href="https://jestjs.io"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
