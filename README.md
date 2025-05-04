@@ -10,7 +10,7 @@ Open to collaboration and opportunities ✨ <br />
 <img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 How to reach me: www.linkedin.com/in/mathieuboko ✉️ <br/>
 
-Oh by the way! This is my Medium blog: https://medium.com/@MathieuBoko 📝 <br/>
+📓 Blog: https://medium.com/@MathieuBoko 📝 <br/>
 
 ---
 ### 🍂 Jutsus :
