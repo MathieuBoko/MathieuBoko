@@ -25,6 +25,7 @@ How to reach me: www.linkedin.com/in/mathieuboko ✉️ <br/>
   <a href="https://jestjs.io"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
