@@ -1,13 +1,13 @@
 <div id="header" align="center" > 🌅 Hi there, I’m Mathieu!👋🏽</div> <br/>
 <div id="header" align="center" > I'm a Software Developer based in London. </div> <br/>
-<div id="header" align="center" ><img height= "65" src="https://github.com/user-attachments/assets/5dec6307-9498-405e-9f47-ef502b4cb20c" /></div>
+<div id="header" align="center" ><img height="65" width="65" src="https://github.com/user-attachments/assets/5dec6307-9498-405e-9f47-ef502b4cb20c" /></div>
 
 ---
-<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp; 
+<img height="15" width="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp; 
 I’m interested in everything digital and thrilled to learn on this Tech journey 🌱 <br/>
-<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+<img height="15" width="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 Open to collaboration and opportunities ✨ <br />
-<img height="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
+<img height="15" width="15" src="https://github.com/user-attachments/assets/17c1ce1f-4be0-4e50-a117-bf497c9e5910" />&nbsp;
 How to reach me: www.linkedin.com/in/mathieuboko ✉️ <br/>
 
 📓 Blog: https://medium.com/@MathieuBoko 📝 <br/>
@@ -34,9 +34,9 @@ How to reach me: www.linkedin.com/in/mathieuboko ✉️ <br/>
     <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" ><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
   </div>
 
-<div id="footer" align="right">
-  <img height="120" src="https://github.com/user-attachments/assets/c3893ad5-0081-4a1e-aa56-80ac5940b69a" />
-</div>
+  <div id="footer" align="right">
+    <img height="120" width="120" src="https://github.com/user-attachments/assets/c3893ad5-0081-4a1e-aa56-80ac5940b69a" />
+  </div>
 
 <!---
 MathDevWeb/MathDevWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
