@@ -1,6 +1,6 @@
 # Hi there, I'm Mathieu! 👋🏽
 
-I'm a Software Developer based in London, passionate about building elegant and effective digital solutions.
+I'm a Software Developer based in London, passionate about building effective digital solutions.
 
 I have experience with both front-end and back-end development and enjoy tackling new challenges.
 
