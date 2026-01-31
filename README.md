@@ -11,13 +11,6 @@ I have experience with both front-end and back-end development and enjoy tacklin
 
 ---
 
-| Project       | Description                                                                                                                              | Technologies Used                                 | Repository                                                    |
-|---------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------|
-| **Swap-App**  | A user-facing web application that provides a smooth interface for managing and viewing data from the Swap App Server via a REST API.      | React, TypeScript, JavaScript, SCSS, HTML         | [Link](https://github.com/MathieuBoko/Swap-App)                 |
-| **Swap-App-Server** | A lightweight Node.js server designed to handle data logic and API routing for the Swap App client. Follows a Model/Controller architecture. | Node.js, JavaScript                               | [Link](https://github.com/MathieuBoko/Swap-App-Server)        |
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
