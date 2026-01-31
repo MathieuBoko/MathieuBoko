@@ -4,16 +4,12 @@ I'm a Software Developer based in London, passionate about building effective di
 
 I have experience with both front-end and back-end development and enjoy tackling new challenges.
 
-- 🌱 I’m currently learning about cloud-native technologies, architecture design, and LLM integration.
+- 🌱 I’m currently learning about cloud-native technologies, architecture design, and AI integration.
 - 💼 I’m open to new job opportunities and collaborations.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathieuboko)
 - 📝 My Blog: [Medium](https://medium.com/@MathieuBoko)
 
 ---
-
-## 🚀 Projects
-
-Here are a few projects I've worked on. Feel free to check them out!
 
 | Project       | Description                                                                                                                              | Technologies Used                                 | Repository                                                    |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------------------------------------|
@@ -22,7 +18,7 @@ Here are a few projects I've worked on. Feel free to check them out!
 
 ---
 
-## 💻 My Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 <div align="center">
@@ -54,7 +50,7 @@ Here are a few projects I've worked on. Feel free to check them out!
 
 ---
 
-## 🔥 My GitHub Stats
+## 🔥 Stats
 <div align="center">
   <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" ><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
 </div>
