@@ -1,17 +1,20 @@
-# Hi there, I'm Mathieu! 👋🏽
+**Hi there, I'm Mathieu** 👋🏽
 
-I'm a Software Developer based in London, passionate about building effective digital solutions.
-
-I have experience with both front-end and back-end development and enjoy tackling new challenges.
-
-- 🌱 I’m currently learning about cloud-native technologies, architecture design, and AI integration.
-- 💼 I’m open to new job opportunities and collaborations.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathieuboko)
-- 📝 My Blog: [Medium](https://medium.com/@MathieuBoko)
+Full-stack developer.
 
 ---
 
-## 💻 Tech Stack
+🌱 Exploring Cloud-native Architecture and AI integrations
+
+📝 Sharing experiments and insights on [Medium](https://medium.com/@MathieuBoko)
+
+🤝 Open to collaborations, freelance projects, and professional opportunities
+
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mathieuboko/)
+
+---
+
+**💻 Tech Stack**
 
 <div align="center">
   <a href="https://javascript.info"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
@@ -39,7 +42,6 @@ I have experience with both front-end and back-end development and enjoy tacklin
 
 ---
 
-## 🔥 Stats
 <div align="center">
   <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" ><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
 </div>
