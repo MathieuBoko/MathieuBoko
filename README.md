@@ -4,6 +4,8 @@ Full-stack developer.
 
 ---
 
+**Highlights:**
+
 🌱 Exploring Cloud-native Architecture and AI integrations
 
 📝 Sharing experiments and insights on [Medium](https://medium.com/@MathieuBoko)
