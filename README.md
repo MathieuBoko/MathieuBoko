@@ -41,9 +41,3 @@ Full-stack developer.
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://aws.amazon.com"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
 </div>
-
----
-
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" ><img src="https://streak-stats.demolab.com?user=MathieuBoko&theme=dark" alt="GitHub Streak" /></a>
-</div>
